@@ -34,8 +34,8 @@ from agents import Agent, Runner, trace, function_tool
 from openai.types.responses import ResponseTextDeltaEvent
 
 # Global configuration - UPDATE THESE EMAIL ADDRESSES
-FROM_EMAIL = "abdulbasitnedian@outlook.com"  # Must be verified in SendGrid
-TO_EMAIL = "abdulbasitnedian@gmail.com"              # Your recipient email
+FROM_EMAIL = "cccccccccc@outlook.com"  # Must be verified in SendGrid
+TO_EMAIL = "bbbbbbbbbbb@gmail.com"              # Your recipient email
 TEST_MODE = False  # Set to False to actually send emails
 
 
